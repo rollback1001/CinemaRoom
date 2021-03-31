@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Topics/The main method/Print  We are robots_/out/
+/Topics/The main method/Print  We are robots_/out/production/classes/
+/Topics/The main method/Theory/out/
+/Topics/The main method/Theory/out/production/classes/
